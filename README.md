@@ -1,6 +1,6 @@
 # Swiggy Clone - Restaurant Website
 
-This project is a **Swiggy-inspired restaurant website** built using **HTML, CSS, and JavaScript**. It features a **location selection dropdown, navbar, offers section, and a Sign-In button that redirects to Swiggy's official login page**.
+This project is a **Swiggy-inspired restaurant website** built using **HTML, CSS**. It features a **location selection dropdown, navbar, offers section, and a Sign-In button that redirects to Swiggy's official login page**.
 
 ## 🚀 Features
 - **Navbar** with navigation links (Search, Offers, Help, Sign In)
